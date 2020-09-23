@@ -1,7 +1,5 @@
-# cfg-final
+# cfg-final - Group C - Galyna and Abi
 A programme to search for recipes in a database
-
-# Group C - Galyna and Abi
 
 # What was the original plan for the project?
 Must:
